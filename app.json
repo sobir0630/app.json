@@ -1,0 +1,23 @@
+[
+  {
+    "nom": "Telegram",
+    "versiya": "2.0",
+    "link": "https://telegram.org/dl/desktop/win64",
+    "rasm": "https://telegram.org/img/t_logo.png",
+    "tavsif": "Tez va xavfsiz messenjer dasturi"
+  },
+  {
+    "nom": "VLC Media Player",
+    "versiya": "3.0.18",
+    "link": "https://get.videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.exe",
+    "rasm": "https://upload.wikimedia.org/wikipedia/commons/9/92/VLC_media_player_icon.png",
+    "tavsif": "Barcha video formatlarini ochadigan qulay media pleer"
+  },
+  {
+    "nom": "Notepad++",
+    "versiya": "8.6.4",
+    "link": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.4/npp.8.6.4.Installer.x64.exe",
+    "rasm": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Notepad%2B%2B_Logo.png",
+    "tavsif": "Dasturchilar uchun qulay matn muharriri"
+  }
+]
